@@ -1,7 +1,10 @@
-# Arrow Functions & Iteration Methods Task
+# Arrow Functions & Iteration Task 2
 
 ## Instructions
 
-**Fork** this repository and clone your fork (make sure you clone it into your `development` directory):
+1. Fork and clone [this repo](https://github.com/JoinCODED/TASK-arrow-iterators).
+2. Read the comments in the js file, keep in mind to write arrow functions only.
+3. You will have 10 minutes to solve each function, then we shall solve it together.
 
-Read the comments in the js file, keep in mid to write arrow functions only.
+
+
